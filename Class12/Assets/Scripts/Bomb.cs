@@ -39,7 +39,12 @@ public class Bomb : MonoBehaviour
     // Use this for initialization
     void Start ()
     {
+        float randomX = UnityEngine.Random.Range(10f, 100f);
+        float randomY = UnityEngine.Random.Range(10, 100f);
+        float randomZ = UnityEngine.Random.Range(10, 100f);
 
+        Rigidbody bomb = GetComponent<Rigidbody>();
+        bomb.AddTorque(randomX, randomY, randomZ);
     }
         
     public void OnCollisionEnter (Collision collision)

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B6DE9D10-2F61-C47C-DB9D-EBDB64487E50}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BombEmitter.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Bomb.cs" Line="17" Column="51" />
+      <File FileName="Assets/Scripts/BombEmitter.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Class12" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="BombEmitter.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8a64d665-4b2d-4c87-ba76-997eaecbdb1d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

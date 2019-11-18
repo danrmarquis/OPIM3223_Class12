@@ -25,6 +25,7 @@ Particle Effects and Unity + VR!
 ### Changing Color
 
 ## Unity and VR
+[Enabling VR in Unity](https://docs.unity3d.com/Manual/VROverview.html)
 
 #### Resources
 - [Particle Effects Component](https://docs.unity3d.com/Manual/class-ParticleSystem.html)

@@ -27,3 +27,9 @@ Particle Effects and Unity + VR!
 ## Unity and VR
 
 #### Resources
+- [Particle Effects Component](https://docs.unity3d.com/Manual/class-ParticleSystem.html)
+- [Unity Materials](https://docs.unity3d.com/Manual/Materials.html)
+- [Particle Effects Shape Module](https://docs.unity3d.com/Manual/PartSysShapeModule.html)
+- [Particle Effects Emission Module](https://docs.unity3d.com/Manual/PartSysEmissionModule.html)
+- [Particle Effects Renderer Module](https://docs.unity3d.com/Manual/PartSysRendererModule.html)
+- [Free Unity Materials](https://assetstore.unity.com/lists/free-material-40080)
